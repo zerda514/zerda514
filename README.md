@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center" style="margin: -20px 0 30px">
+<p align="center" target="_blank" style="margin: -20px 0 30px">
   <a href="https://t.me/zerda514" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-black-icon.png" alt="Telegram" height="22px" width="22px" />
   </a>
