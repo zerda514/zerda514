@@ -13,7 +13,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://www.svgrepo.com/show/353184/linkedin-with-circle.svg" alt="linkedin" height="22px" width="22px" />
+    <img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zerda514@gmail.com" target="_blank">
